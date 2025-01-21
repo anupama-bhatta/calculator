@@ -1,4 +1,3 @@
-
 # **Workout Heart Rate & BMI Calculator**
 
 ## **Description**
@@ -18,7 +17,7 @@ To get started with the project:
 
 1. Clone or download the repository to your local machine.
 2. Open the project in your preferred IDE (e.g., **NetBeans**).
-3. Build the project using the IDE’s build tools (e.g., **Ant**).
+3. Build the project using the IDE’s build tools.
 4. Run the application, input your data (age, weight, etc.), and get your heart rate and BMI calculations.
 
 No installation is required—simply build and run the Java project from within your IDE.
@@ -27,7 +26,6 @@ No installation is required—simply build and run the Java project from within 
 
 - **Java**: Programming language used to build the core functionality.
 - **NetBeans**: IDE for development and project management.
-- **Ant**: Build automation tool for compiling and running the application.
 
 ## **File Structure**
 
