@@ -11,16 +11,19 @@ This Java application helps users calculate their workout-targeted heart rate an
 - **Graphical User Interface**: Intuitive GUI for easy data input and result display.
 - **Instant Results**: Displays the results immediately after entering the required data.
 
-## **Getting Started**
+## Getting Started
 
-To get started with the project:
+### Prerequisites
+
+- **Java** installed on your system.
+- An IDE like **NetBeans** for running the project.
+
+### Steps to Use
 
 1. Clone or download the repository to your local machine.
 2. Open the project in your preferred IDE (e.g., **NetBeans**).
 3. Build the project using the IDE’s build tools.
 4. Run the application, input your data (age, weight, etc.), and get your heart rate and BMI calculations.
-
-No installation is required—simply build and run the Java project from within your IDE.
 
 ## **Technologies Used**
 
